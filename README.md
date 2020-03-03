@@ -31,5 +31,5 @@ HTML
 <br/>Node.js
 <br/>Express
 <br/>Heroku
-**Node Packages:** 
+<br/>**Node Packages:** 
 <br/>express, express-handlebars, mysql2, sequelize, google-auth-library, nodemailer, nodemon, dotenv, cookie-parser
